@@ -1,0 +1,34 @@
+{
+  "name": "skycast",
+  "private": true,
+  "version": "1.0.0",
+  "description": "SKYCAST – Live Weather Intelligence & Forecasting Dashboard built with React 19, Vite, and Open-Meteo API.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "weather",
+    "dashboard",
+    "react",
+    "vite",
+    "open-meteo",
+    "live-weather",
+    "forecast",
+    "glassmorphism",
+    "geolocation"
+  ],
+  "author": "SKYCAST Development Team",
+  "license": "MIT",
+  "dependencies": {
+    "lucide-react": "^0.475.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^6.2.0"
+  }
+}
